@@ -6,7 +6,7 @@ import (
 )
 
 func TestParseText(t *testing.T) {
-	//	t.Error("This test failed")
+	// t.Error("This test failed")
 
 	// Send a string with mixed case
 	s := TextToParse{Title: "Sample", Text: "Test test test Test test test TEST"}
